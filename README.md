@@ -1,4 +1,4 @@
-# docker-compose-influxdb-grafana for K6 load testing result
+# K6 load testing
 
 run k6 script and export data to influxdb 
 ```
